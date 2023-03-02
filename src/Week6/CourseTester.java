@@ -12,7 +12,7 @@ public class CourseTester {
         CG_Course cmsc255 = new CG_Course("CMSC", 255, 4, "West Des Moines" );
         System.out.println(cmsc255);
         Course bio101 = new CG_Course("BIO", 101, 4, "West Des Moines");
-        CG_Course lit101 = new Course("LIT", 101, 4);
+//        CG_Course lit101 = new Course("LIT", 101, 4);
 
     }
 }
